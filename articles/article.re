@@ -92,7 +92,7 @@ C#	5年	AIに書かせています
 $ /model
 //}
 
-Claude Code のモデルを切り替えながら仕事をしています。
+トークンを節約するために Claude Code のモデルを切り替えながら仕事をしています。
 
 == これから書きたいこと
 
@@ -116,7 +116,7 @@ Claude Code のモデルを切り替えながら仕事をしています。
 
 #@# カンマの後ろの文字が、PDF上のリンクテキストになります。
 
- * GitHub: @<href>{https://github.com/Mutsumix, ムツミックス}
+ * GitHub: @<href>{https://github.com/Mutsumix, Mutz}
  * X: @<href>{https://x.com/Mutsumix_dev, ムツミックス}
  * その他: @<href>{https://mutsumikajihara.com, 個人HP}
 
